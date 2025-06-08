@@ -1,0 +1,8 @@
+[project]
+name = "smol-daemon"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "smolagents[all]>=1.17.0",
+]
