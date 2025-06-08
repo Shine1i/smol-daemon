@@ -1,0 +1,4 @@
+System cleaned successfully.
+Disk storage: 1.9T
+RAM usage: 30.5GB
+GPU memory: 9072MB/24576MB
