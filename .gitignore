@@ -1,0 +1,93 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Project specific
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# BleachBit related files
+bleachbit_*.log
+
+# System/environment specific files
+.directory
+.Trash-*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large files and data
+*.csv
+*.xls
+*.xlsx
+*.db
+*.zip
+*.tar
+*.gz
+
+# Configuration files with potential secrets
+secrets.json
+.env.local
+.env.*.local
+
+# Cache directories
+__pypackages__/
+.pytype/
+cython_debug/
+
+# UV package manager cache
+.uv/
